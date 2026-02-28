@@ -174,30 +174,4 @@ pip install streamlit mysql-connector-python
 streamlit run app.py
 ```
 
----
-
-## 🎯 Ideal For
-
-✔ Data Analyst roles
-✔ BI Analyst interviews
-✔ SQL + Python portfolios
-✔ Analytics-focused case studies
-
----
-
-## 💬 How to Explain This in an Interview
-
-> “I designed an analytical SQL layer using views, procedures, and functions, then built a Python UI so business users could consume insights without writing SQL. This reduced ad-hoc query dependency and ensured consistent KPI reporting.”
-
----
-
-## 🌱 Future Analytics Enhancements
-
-* KPI dashboards (Power BI / Tableau)
-* Time-series trend analysis
-* Role-based metric access
-* Data quality checks & alerts
-
----
-
 
